@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-
-      <h1>Welcome to Asteria</h1>
+      <Message url="http://localhost:5000/api/hello" />
     </>
   )
 }
