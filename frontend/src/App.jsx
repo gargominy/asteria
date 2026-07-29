@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Message url="http://localhost:5000/api/hello" />
+      <h1>hello</h1>
     </>
   )
 }
